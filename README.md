@@ -46,4 +46,4 @@ O arquivo .pbix está disponível na pasta **pbix** do repositório.
 
 
 ## Modelo Estrela
-![Modelo Estrela](imagens/dashboard star.png)
+![Modelo Estrela](dashboard_star.png)
