@@ -44,8 +44,6 @@ O projeto foi desenvolvido utilizando modelo dimensional (Star Schema), contendo
 
 O arquivo .pbix está disponível na pasta **pbix** do repositório.
 
-## Dashboard
-![Dashboard](imagens/dashboard.png)
 
 ## Modelo Estrela
 ![Modelo Estrela](imagens/dashboard star.png)
