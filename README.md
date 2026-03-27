@@ -38,12 +38,11 @@ O projeto foi desenvolvido utilizando modelo dimensional (Star Schema), contendo
 
 ## ⭐ Modelo Estrela
 
-![Modelo Estrela](imagens/dashboard star.png)
+![Modelo Estrela](imagens/dashboard_star.png)
 
 ## 📁 Arquivo Power BI
 
 O arquivo .pbix está disponível na pasta **pbix** do repositório.
 
 
-## Modelo Estrela
-![Modelo Estrela](dashboard_star.png)
+
